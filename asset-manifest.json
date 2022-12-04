@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/BordioTest/static/css/main.a8f8fc43.css",
+    "main.js": "/BordioTest/static/js/main.55291d70.js",
+    "static/media/logo.svg": "/BordioTest/static/media/logo.af5d8aaeb54f763f3530953568753dce.svg",
+    "index.html": "/BordioTest/index.html",
+    "main.55291d70.js.map": "/BordioTest/static/js/main.55291d70.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a8f8fc43.css",
+    "static/js/main.55291d70.js"
+  ]
+}
